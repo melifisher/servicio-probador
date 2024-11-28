@@ -1,0 +1,12 @@
+flask
+numpy
+opencv-python
+mediapipe
+Pillow
+onnxruntime
+scipy
+open3d
+trimesh
+glb
+pytorch3d
+PyFBX
